@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+fixture/app
+fixture/generated.h
+fixture/recipes.log
